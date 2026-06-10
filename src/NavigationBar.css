@@ -1,0 +1,49 @@
+.navbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+  padding: 20px;
+  background-color: lightgray;
+}
+
+.nav-static {
+  position: static;
+  border-bottom: 2px solid #9e9e9e;
+  transition: all 0.4s ease;
+  text-decoration: underline rgb(0, 196, 131);
+}
+
+.nav-sticky {
+  position: sticky;
+  top: 0;
+  background-color: lightgreen;
+  z-index: 1000;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.2);
+  transition: all 0.4s ease;
+  padding-top: 23px;
+  padding-bottom: 23px;
+}
+
+.navbar a {
+  transition: opacity 0.4s ease;
+  text-decoration: none;
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+.navbar a:hover {
+  color: blue;
+}
+
+.link-visible {
+  opacity: 1;
+}
+
+.link-hidden {
+  opacity: 0;
+  transition: none;
+}
