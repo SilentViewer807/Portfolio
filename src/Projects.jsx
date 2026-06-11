@@ -123,13 +123,6 @@ const Projects = () => {
       text: "A to-do list app that organizes tasks and handles custom categories.",
       github_url: "",
       url: ""
-    },
-    {
-      image: "https://static.thenounproject.com/png/stickman-fast-running-icon-5232770-512.png",
-      title: "Stickman Hook",
-      text: "A physics-based stickman game that lets you hook anchors and bounce through levels.",
-      github_url: "",
-      url: ""
     }
   ];
 
