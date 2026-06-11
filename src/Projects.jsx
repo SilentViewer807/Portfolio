@@ -93,36 +93,36 @@ const Projects = () => {
       image: "https://static.thenounproject.com/png/grid-icon-6359842-512.png",
       title: "Wordle Game",
       text: "An interactive word game that uses a confetti CDN and remembers users.",
-      github_url: "",
-      url: ""
+      github_url: "https://github.com/SilentViewer807/Wordle-Game",
+      url: "https://wordle-game-blond.vercel.app"
     },
     {
       image: "https://static.thenounproject.com/png/weather-icon-8021698-512.png",
       title: "Weather App",
       text: "A location-based weather app that uses API calls and displays results.",
-      github_url: "",
-      url: ""
+      github_url: "https://github.com/SilentViewer807/Weather-App",
+      url: "https://weather-app-xi-silk-31.vercel.app"
     },
     {
       image: "https://static.thenounproject.com/png/circuit-icon-6562279-512.png",
       title: "Circuit Craft",
       text: "A circuit maker using HTML5 Canvas to allow users to model electronic designs.",
-      github_url: "",
-      url: ""
+      github_url: "https://github.com/SilentViewer807/Circuit-Craft",
+      url: "https://circuit-craft-rust.vercel.app"
     },
     {
       image: "https://static.thenounproject.com/png/type-icon-5035764-512.png",
       title: "Typing Speed Test",
       text: "A typing practice website that handles typing and shows live statistics.",
-      github_url: "",
-      url: ""
+      github_url: "https://github.com/SilentViewer807/Typing-Speed-Test",
+      url: "https://typing-speed-test-roan-six.vercel.app"
     },
     {
       image: "https://static.thenounproject.com/png/to-do-icon-1628178-512.png",
       title: "Momentum List",
       text: "A to-do list app that organizes tasks and handles custom categories.",
-      github_url: "",
-      url: ""
+      github_url: "https://github.com/SilentViewer807/Momentum-List",
+      url: "https://momentum-list.vercel.app"
     }
   ];
 
