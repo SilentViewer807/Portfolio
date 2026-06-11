@@ -10,7 +10,7 @@ Built with React and Vite. HTML, CSS, and JavaScript are included.
 
 - Responsive design
 - Anchor links for smooth navigation
-- Github repo and quick view links to my other six projects
+- Github repo and quick view links to my five other projects
 - Screen reader accessibility
 
 ## Preview
